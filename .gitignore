@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output directories (keep only demo_output)
+output/
+output_fixed/
+output_fixed2/
+output_fixed3/
+output_final/
+output_with_alerts/
+test_output/
+sample_output/
+
+# Test files
+tests/
+pytest.ini
+debug_extraction.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

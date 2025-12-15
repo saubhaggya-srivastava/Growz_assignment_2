@@ -1,0 +1,309 @@
+{
+  "summary": {
+    "total_quantity_ordered": 184.0,
+    "total_quantity_invoiced": 184.0,
+    "quantity_difference": 0.0,
+    "total_value_ordered": "7569.21",
+    "total_value_invoiced": "7801.40",
+    "value_difference": "232.19",
+    "items_with_discrepancies": 7,
+    "total_items_compared": 10
+  },
+  "discrepancies": [
+    {
+      "po_item": {
+        "sku": "A1001",
+        "description": "Wireless Mouse",
+        "quantity": 25.0,
+        "unit_price": "14.50",
+        "total_value": "370.20"
+      },
+      "pi_item": {
+        "sku": "A1001",
+        "description": "Wireless Mouse",
+        "quantity": 25.0,
+        "unit_price": "15.95",
+        "total_value": "407.22"
+      },
+      "differences": {
+        "quantity_diff": 0.0,
+        "unit_price_diff": "1.45",
+        "total_value_diff": "37.02"
+      },
+      "has_discrepancy": true,
+      "has_quantity_mismatch": false,
+      "has_price_mismatch": true,
+      "alert_severity": "high",
+      "flagged": true
+    },
+    {
+      "po_item": {
+        "sku": "A1002",
+        "description": "Mechanical Keyboard",
+        "quantity": 15.0,
+        "unit_price": "62.00",
+        "total_value": "899.78"
+      },
+      "pi_item": {
+        "sku": "A1002",
+        "description": "Mechanical Keyboard",
+        "quantity": 15.0,
+        "unit_price": "62.00",
+        "total_value": "906.75"
+      },
+      "differences": {
+        "quantity_diff": 0.0,
+        "unit_price_diff": null,
+        "total_value_diff": "6.97"
+      },
+      "has_discrepancy": true,
+      "has_quantity_mismatch": false,
+      "has_price_mismatch": false,
+      "alert_severity": "low",
+      "flagged": true
+    },
+    {
+      "po_item": {
+        "sku": "A1003",
+        "description": "USB-C Hub (7-in-1)",
+        "quantity": 30.0,
+        "unit_price": "22.75",
+        "total_value": "733.69"
+      },
+      "pi_item": {
+        "sku": "A1003",
+        "description": "USB-C Hub (7-in-1)",
+        "quantity": 30.0,
+        "unit_price": "22.75",
+        "total_value": "733.69"
+      },
+      "differences": {
+        "quantity_diff": 0.0,
+        "unit_price_diff": null,
+        "total_value_diff": null
+      },
+      "has_discrepancy": false,
+      "has_quantity_mismatch": false,
+      "has_price_mismatch": false,
+      "alert_severity": null
+    },
+    {
+      "po_item": {
+        "sku": "A1004",
+        "description": "1080p Webcam",
+        "quantity": 18.0,
+        "unit_price": "39.99",
+        "total_value": "711.90"
+      },
+      "pi_item": {
+        "sku": "A1004",
+        "description": "1080p Webcam",
+        "quantity": 18.0,
+        "unit_price": "35.99",
+        "total_value": "640.71"
+      },
+      "differences": {
+        "quantity_diff": 0.0,
+        "unit_price_diff": "-4.00",
+        "total_value_diff": "-71.19"
+      },
+      "has_discrepancy": true,
+      "has_quantity_mismatch": false,
+      "has_price_mismatch": true,
+      "alert_severity": "high",
+      "flagged": true
+    },
+    {
+      "po_item": {
+        "sku": "A1005",
+        "description": "Noise-Canceling Headset",
+        "quantity": 12.0,
+        "unit_price": "89.00",
+        "total_value": "1010.33"
+      },
+      "pi_item": {
+        "sku": "A1005",
+        "description": "Noise-Canceling Headset",
+        "quantity": 12.0,
+        "unit_price": "89.00",
+        "total_value": "1061.99"
+      },
+      "differences": {
+        "quantity_diff": 0.0,
+        "unit_price_diff": null,
+        "total_value_diff": "51.66"
+      },
+      "has_discrepancy": true,
+      "has_quantity_mismatch": false,
+      "has_price_mismatch": false,
+      "alert_severity": "high",
+      "flagged": true
+    },
+    {
+      "po_item": {
+        "sku": "A1006",
+        "description": "Laptop Stand (Aluminum)",
+        "quantity": 20.0,
+        "unit_price": "27.40",
+        "total_value": "589.10"
+      },
+      "pi_item": {
+        "sku": "A1006",
+        "description": "Laptop Stand (Aluminum)",
+        "quantity": 20.0,
+        "unit_price": "27.40",
+        "total_value": "589.10"
+      },
+      "differences": {
+        "quantity_diff": 0.0,
+        "unit_price_diff": null,
+        "total_value_diff": null
+      },
+      "has_discrepancy": false,
+      "has_quantity_mismatch": false,
+      "has_price_mismatch": false,
+      "alert_severity": null
+    },
+    {
+      "po_item": {
+        "sku": "A1007",
+        "description": "Portable SSD 1TB",
+        "quantity": 10.0,
+        "unit_price": "99.99",
+        "total_value": "1021.15"
+      },
+      "pi_item": {
+        "sku": "A1007",
+        "description": "Portable SSD 1TB",
+        "quantity": 10.0,
+        "unit_price": "104.99",
+        "total_value": "1072.21"
+      },
+      "differences": {
+        "quantity_diff": 0.0,
+        "unit_price_diff": "5.00",
+        "total_value_diff": "51.06"
+      },
+      "has_discrepancy": true,
+      "has_quantity_mismatch": false,
+      "has_price_mismatch": true,
+      "alert_severity": "high",
+      "flagged": true
+    },
+    {
+      "po_item": {
+        "sku": "A1008",
+        "description": "HDMI Cable (2m)",
+        "quantity": 40.0,
+        "unit_price": "6.80",
+        "total_value": "292.40"
+      },
+      "pi_item": {
+        "sku": "A1008",
+        "description": "HDMI Cable (2m)",
+        "quantity": 40.0,
+        "unit_price": "6.80",
+        "total_value": "292.40"
+      },
+      "differences": {
+        "quantity_diff": 0.0,
+        "unit_price_diff": null,
+        "total_value_diff": null
+      },
+      "has_discrepancy": false,
+      "has_quantity_mismatch": false,
+      "has_price_mismatch": false,
+      "alert_severity": null
+    },
+    {
+      "po_item": {
+        "sku": "A1009",
+        "description": "Laser Printer",
+        "quantity": 6.0,
+        "unit_price": "149.00",
+        "total_value": "893.78"
+      },
+      "pi_item": {
+        "sku": "A1009",
+        "description": "Laser Printer",
+        "quantity": 6.0,
+        "unit_price": "149.00",
+        "total_value": "893.42"
+      },
+      "differences": {
+        "quantity_diff": 0.0,
+        "unit_price_diff": null,
+        "total_value_diff": "-0.36"
+      },
+      "has_discrepancy": true,
+      "has_quantity_mismatch": false,
+      "has_price_mismatch": false,
+      "alert_severity": "low",
+      "flagged": true
+    },
+    {
+      "po_item": {
+        "sku": "A1010",
+        "description": "Office Chair (Ergonomic)",
+        "quantity": 8.0,
+        "unit_price": "129.50",
+        "total_value": "1046.88"
+      },
+      "pi_item": {
+        "sku": "A1010",
+        "description": "Office Chair (Ergonomic)",
+        "quantity": 8.0,
+        "unit_price": "148.92",
+        "total_value": "1203.91"
+      },
+      "differences": {
+        "quantity_diff": 0.0,
+        "unit_price_diff": "19.42",
+        "total_value_diff": "157.03"
+      },
+      "has_discrepancy": true,
+      "has_quantity_mismatch": false,
+      "has_price_mismatch": true,
+      "alert_severity": "high",
+      "flagged": true
+    }
+  ],
+  "alerts": [
+    {
+      "severity": "high",
+      "message": "Unit price discrepancy of $1.45 (10.0%) for 'Wireless Mouse'",
+      "suggested_action": "Verify pricing with vendor and check for price changes",
+      "related_item": "Wireless Mouse"
+    },
+    {
+      "severity": "low",
+      "message": "Minor total value discrepancy of $6.97 (0.77%) for 'Mechanical Keyboard'",
+      "suggested_action": "Review during routine reconciliation",
+      "related_item": "Mechanical Keyboard"
+    },
+    {
+      "severity": "high",
+      "message": "Unit price discrepancy of $-4.00 (10.0%) for '1080p Webcam'",
+      "suggested_action": "Verify pricing with vendor and check for price changes",
+      "related_item": "1080p Webcam"
+    },
+    {
+      "severity": "high",
+      "message": "Unit price discrepancy of $5.00 (5.0%) for 'Portable SSD 1TB'",
+      "suggested_action": "Verify pricing with vendor and check for price changes",
+      "related_item": "Portable SSD 1TB"
+    },
+    {
+      "severity": "low",
+      "message": "Minor total value discrepancy of $-0.36 (0.04%) for 'Laser Printer'",
+      "suggested_action": "Review during routine reconciliation",
+      "related_item": "Laser Printer"
+    },
+    {
+      "severity": "high",
+      "message": "Unit price discrepancy of $19.42 (15.0%) for 'Office Chair (Ergonomic)'",
+      "suggested_action": "Verify pricing with vendor and check for price changes",
+      "related_item": "Office Chair (Ergonomic)"
+    }
+  ]
+}

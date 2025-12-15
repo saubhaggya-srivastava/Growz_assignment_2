@@ -1,0 +1,11 @@
+PO_SKU,PO_Description,PO_Quantity,PO_Unit_Price,PO_Total_Value,PI_SKU,PI_Description,PI_Quantity,PI_Unit_Price,PI_Total_Value,Quantity_Difference,Unit_Price_Difference,Total_Value_Difference,Has_Discrepancy,Has_Quantity_Mismatch,Has_Price_Mismatch,Alert_Severity
+A1001,Wireless Mouse,25.0,14.5,370.2,A1001,Wireless Mouse,25.0,15.95,407.22,0.0,1.45,37.02,True,False,True,HIGH
+A1002,Mechanical Keyboard,15.0,62.0,899.78,A1002,Mechanical Keyboard,15.0,62.0,906.75,0.0,,6.97,True,False,False,LOW
+A1003,USB-C Hub (7-in-1),30.0,22.75,733.69,A1003,USB-C Hub (7-in-1),30.0,22.75,733.69,0.0,,,False,False,False,
+A1004,1080p Webcam,18.0,39.99,711.9,A1004,1080p Webcam,18.0,35.99,640.71,0.0,-4.0,-71.19,True,False,True,HIGH
+A1005,Noise-Canceling Headset,12.0,89.0,1010.33,A1005,Noise-Canceling Headset,12.0,89.0,1061.99,0.0,,51.66,True,False,False,HIGH
+A1006,Laptop Stand (Aluminum),20.0,27.4,589.1,A1006,Laptop Stand (Aluminum),20.0,27.4,589.1,0.0,,,False,False,False,
+A1007,Portable SSD 1TB,10.0,99.99,1021.15,A1007,Portable SSD 1TB,10.0,104.99,1072.21,0.0,5.0,51.06,True,False,True,HIGH
+A1008,HDMI Cable (2m),40.0,6.8,292.4,A1008,HDMI Cable (2m),40.0,6.8,292.4,0.0,,,False,False,False,
+A1009,Laser Printer,6.0,149.0,893.78,A1009,Laser Printer,6.0,149.0,893.42,0.0,,-0.36,True,False,False,LOW
+A1010,Office Chair (Ergonomic),8.0,129.5,1046.88,A1010,Office Chair (Ergonomic),8.0,148.92,1203.91,0.0,19.42,157.03,True,False,True,HIGH
