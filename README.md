@@ -128,5 +128,4 @@ ALERTS (6)
 This project is provided as-is for evaluation purposes.
 
 ## Author
-
-Created as part of the Growz Assignment 2.
+Saubhaggya Srivastava
